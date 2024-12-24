@@ -47,15 +47,15 @@
 
 ---
 
-<h3 align="left">🛠️ Featured Projects:</h3>
-<ul>
-  <!-- Add featured projects here -->
-</ul>
-
----
-
 <h3 align="left">💼 Work Contributions:</h3>
 <p align="left">
   Check out my contributions to AMD SMI on GitHub:  
   <a href="https://github.com/ROCm/amdsmi/commits?author=JustinNWilliams" target="_blank">GitHub Work Contributions</a>
 </p>
+
+---
+
+<h3 align="left">🛠️ Featured Projects:</h3>
+<ul>
+  <!-- Add featured projects here -->
+</ul>
