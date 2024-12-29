@@ -37,6 +37,6 @@
 
 <h3 align="left">🛠️ Featured Projects:</h3>
 <ul>
-https://github.com/JustinNWilliams/AWS-Hosting-A-Website-On-S3
-https://github.com/JustinNWilliams/AWS-Visualizing-Data-with-QuickSight
+  <li><a href="https://github.com/JustinNWilliams/AWS-Hosting-A-Website-On-S3" target="_blank">AWS Hosting a Website on S3</a></li>
+  <li><a href="https://github.com/JustinNWilliams/AWS-Visualizing-Data-with-QuickSight" target="_blank">AWS Visualizing Data with QuickSight</a></li>
 </ul>
