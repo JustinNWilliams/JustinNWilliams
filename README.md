@@ -38,4 +38,5 @@
 <h3 align="left">🛠️ Featured Projects:</h3>
 <ul>
 https://github.com/JustinNWilliams/AWS-Hosting-A-Website-On-S3
+https://github.com/JustinNWilliams/AWS-Visualizing-Data-with-QuickSight
 </ul>
