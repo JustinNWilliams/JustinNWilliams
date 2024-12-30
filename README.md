@@ -39,4 +39,5 @@
 <ul>
   <li><a href="https://github.com/JustinNWilliams/AWS-Hosting-A-Website-On-S3" target="_blank">AWS Hosting a Website on S3</a></li>
   <li><a href="https://github.com/JustinNWilliams/AWS-Visualizing-Data-with-QuickSight" target="_blank">AWS Visualizing Data with QuickSight</a></li>
+  <li><a href="https://github.com/JustinNWilliams/AWS-Building-a-Chatbot-with-Lex" target="_blank">AWS Building a Chatbot with Lex</a></li>
 </ul>
