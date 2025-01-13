@@ -34,7 +34,7 @@
   <li><a href="https://github.com/JustinNWilliams/AWS-Building-a-Chatbot-with-Lex" target="_blank">AWS Building a Chatbot with Lex</a></li>
   
   <!-- Placeholder for future projects -->
-  <li><a href="https://github.com/JustinNWilliams/AWS-Cloud-Security-with-IAM" target="_blank">AWS Cloud Security with IAM</a></li>
+  <li><a href="https://github.com/JustinNWilliams/AWS-IAM-Cloud-Security" target="_blank">AWS Cloud Security with IAM</a></li>
 <!--   <li><a href="#" target="_blank">[Future Project Title]</a></li>
   <li><a href="#" target="_blank">[Future Project Title]</a></li>
   <li><a href="#" target="_blank">[Future Project Title]</a></li>
