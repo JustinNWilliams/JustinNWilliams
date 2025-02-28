@@ -32,13 +32,8 @@
   <li><a href="https://github.com/JustinNWilliams/AWS-Hosting-A-Website-On-S3" target="_blank">AWS Hosting a Website on S3</a></li>
   <li><a href="https://github.com/JustinNWilliams/AWS-Visualizing-Data-with-QuickSight" target="_blank">AWS Visualizing Data with QuickSight</a></li>
   <li><a href="https://github.com/JustinNWilliams/AWS-Building-a-Chatbot-with-Lex" target="_blank">AWS Building a Chatbot with Lex</a></li>
-  
-  <!-- Placeholder for future projects -->
   <li><a href="https://github.com/JustinNWilliams/AWS-IAM-Cloud-Security" target="_blank">AWS Cloud Security with IAM</a></li>
-<!--   <li><a href="#" target="_blank">[Future Project Title]</a></li>
-  <li><a href="#" target="_blank">[Future Project Title]</a></li>
-  <li><a href="#" target="_blank">[Future Project Title]</a></li>
-  <li><a href="#" target="_blank">[Future Project Title]</a></li>
-  <li><a href="#" target="_blank">[Future Project Title]</a></li>
-  <li><a href="#" target="_blank">[Future Project Title]</a></li> -->
+  <li><a href="https://github.com/JustinNWilliams/Azure-AKS-CI-CD-Pipeline-with-Tekton" target="_blank">Azure AKS CI/CD Pipeline with Tekton</a></li>
+  <li><a href="https://github.com/JustinNWilliams/AWS-Containers-on-Elastic-Beanstalk" target="_blank">AWS Containers on Elastic Beanstalk</a></li>
+  <li><a href="https://github.com/JustinNWilliams/AWS-VPC" target="_blank">AWS VPC</a></li>
 </ul>
