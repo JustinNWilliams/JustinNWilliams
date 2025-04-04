@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">A Linux Engineer<h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/JustinNWilliams/](https://github.com/JustinNWilliams/)
+- 👨‍💻 All of my projects are available at [https://github.com/JustinNWilliams/](https://github.com/JustinNWilliams?tab=repositories)
 - How to contact me justinnwilliams4@gmail.com
 
 <h3 align="left">Connect with me on LinkedIn</h3>
