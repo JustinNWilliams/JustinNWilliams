@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A Linux Engineer<h3>
+<h3 align="center">A Linux Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/JustinNWilliams/](https://github.com/JustinNWilliams?tab=repositories)
-- How to contact me justinnwilliams4@gmail.com
+- 👨‍💻 All of my projects are available [here](https://github.com/JustinNWilliams?tab=repositories)  
+- 📫 How to contact me: justinnwilliams4@gmail.com  
 
 <h3 align="left">Connect with me on LinkedIn</h3>
 <p align="left">
@@ -29,11 +29,14 @@
 
 <h3 align="left">🛠️ Featured Projects:</h3>
 <ul>
+  <li><a href="https://github.com/JustinNWilliams/Linux-Performance-Monitoring-with-Grafana-Prometheus" target="_blank">Linux Performance Monitoring with Grafana & Prometheus</a></li>
+  <li><a href="https://github.com/JustinNWilliams/Ansible-Prometheus-and-Grafana-Automating-a-Network-Monitoring-Stack" target="_blank">Ansible: Automating a Network Monitoring Stack</a></li>
+  <li><a href="https://github.com/JustinNWilliams/GitOps-Implementation-with-Argo-CD" target="_blank">GitOps Implementation with Argo CD</a></li>
+  <li><a href="https://github.com/JustinNWilliams/Azure-AKS-CI-CD-Pipeline-with-Tekton" target="_blank">Azure AKS CI/CD Pipeline with Tekton</a></li>
   <li><a href="https://github.com/JustinNWilliams/AWS-Hosting-A-Website-On-S3" target="_blank">AWS Hosting a Website on S3</a></li>
   <li><a href="https://github.com/JustinNWilliams/AWS-Visualizing-Data-with-QuickSight" target="_blank">AWS Visualizing Data with QuickSight</a></li>
   <li><a href="https://github.com/JustinNWilliams/AWS-Building-a-Chatbot-with-Lex" target="_blank">AWS Building a Chatbot with Lex</a></li>
   <li><a href="https://github.com/JustinNWilliams/AWS-IAM-Cloud-Security" target="_blank">AWS Cloud Security with IAM</a></li>
-  <li><a href="https://github.com/JustinNWilliams/Azure-AKS-CI-CD-Pipeline-with-Tekton" target="_blank">Azure AKS CI/CD Pipeline with Tekton</a></li>
   <li><a href="https://github.com/JustinNWilliams/AWS-Containers-on-Elastic-Beanstalk" target="_blank">AWS Containers on Elastic Beanstalk</a></li>
   <li><a href="https://github.com/JustinNWilliams/AWS-VPC" target="_blank">AWS VPC</a></li>
 </ul>
