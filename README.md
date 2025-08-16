@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A Cloud & DevOps Engineer</h3>
+<h3 align="center">A Cloud DevOps Engineer</h3>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/JustinNWilliams?tab=repositories)  
 - 📫 How to contact me: justinnwilliams4@gmail.com  
